@@ -1,0 +1,23 @@
+{
+  "name": "Manchala",
+  "version": "1.0.0",
+  "description": "my node.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aditigodse10/Manchala-Music-App.git"
+  },
+  "author": "aditi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aditigodse10/Manchala-Music-App/issues"
+  },
+  "homepage": "https://github.com/aditigodse10/Manchala-Music-App#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
